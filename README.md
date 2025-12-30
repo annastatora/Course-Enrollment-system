@@ -82,3 +82,7 @@ Writing reusable validation logic
 Structuring a multi-file Python project
 
 Using Git and GitHub professionally
+
+## License
+This project is licensed under the MIT License.
+
